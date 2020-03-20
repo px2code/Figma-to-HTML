@@ -35,5 +35,10 @@ if you are interested in our products please contact us.
 
 ## Example 
 
-1. https://www.pxcode.io/Example
-2. https://github.com/px2code/pxCode-Sketch-to-React-Example1
+1. Sketch/Code/Result https://www.pxcode.io/Example
+2. App like webpage https://github.com/px2code/pxCode-Sketch-to-React-Example1
+3. RWD webpage https://www.pxcode.io/Example1, https://www.pxcode.io/Example4
+4. Game forum webpage https://www.pxcode.io/Example2, https://www.pxcode.io/Example3
+5. Product page https://www.pxcode.io/Example5
+6. News https://www.pxcode.io/Example6
+
