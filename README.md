@@ -1,14 +1,14 @@
 <div align="center">
+  <strong>pxCode studio</strong><br/>
+  <strong>A online UI/Code editing tool for Smart Responsive Design</strong>
+</div>
+
+<div align="center">
   
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=Xzm0PF30Wwk
 " target="_blank"><img src="https://www.pxcode.io/pxCode-studio-screenshot.jpg" 
 alt="IMAGE ALT TEXT HERE" style="display:block;width:100%;height:auto" /></a>
 
-</div>
-
-<div align="center">
-  <strong>pxCode studio</strong><br/>
-  <strong>A online UI/Code editing tool for Smart Responsive Design</strong>
 </div>
 
 ## Demo
