@@ -31,7 +31,7 @@ You can generate React/React-Native / HTML Code with a few steps:
 pxCode studio is evolving and work well for our internal projects . 
 Please visit our pxCode website for more information.
 if you are interested in our products please contact us.
-[Contact us](https://www.pxcode.io)!
+[Contact us](https://www.pxcode.io/studio)!
 
 ## Example 
 
