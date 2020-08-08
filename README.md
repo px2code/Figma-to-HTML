@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=Xzm0PF30Wwk
-" target="_blank"><img src="https://www.pxcode.io/pxCode-studio-screenshot.jpg" 
+" target="_blank"><img src="https://www.pxcode.io/heroscreenshot.jpg" 
 alt="IMAGE ALT TEXT HERE" style="display:block;width:100%;height:auto" /></a>
 
 </div>
@@ -31,14 +31,5 @@ You can generate React/React-Native / HTML Code with a few steps:
 pxCode studio is evolving and work well for our internal projects . 
 Please visit our pxCode website for more information.
 if you are interested in our products please contact us.
-[Contact us](https://www.pxcode.io/studio)!
-
-## Example 
-
-1. Sketch/Code/Result https://www.pxcode.io/Example
-2. App like webpage https://github.com/px2code/pxCode-Sketch-to-React-Example1
-3. RWD webpage https://www.pxcode.io/Example1, https://www.pxcode.io/Example4
-4. Game forum webpage https://www.pxcode.io/Example2, https://www.pxcode.io/Example3
-5. Product page https://www.pxcode.io/Example5
-6. News https://www.pxcode.io/Example6
+[Contact us](https://www.pxcode.io)!
 
