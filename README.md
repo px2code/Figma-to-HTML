@@ -1,20 +1,19 @@
 <div align="center">
-  <strong>pxCode studio</strong><br/>
+  <strong>pxCode: Design to Code</strong><br/>
   <strong>A online UI/Code editing tool for Smart Responsive Design</strong>
 </div>
 <br/>
 
 
 <div align="center">
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Xzm0PF30Wwk
-" target="_blank"><img src="https://www.pxcode.io/heroscreenshot.jpg" 
+  <a href="http://www.pxcode.io/video/heroVideo.mp4" target="_blank"><img src="https://www.pxcode.io/image/heroscreenshot.jpg" 
 alt="IMAGE ALT TEXT HERE" style="display:block;width:100%;height:auto" /></a>
 
 </div>
 
 ## Demo
 
-[Your can check our video](https://youtu.be/Xzm0PF30Wwk)
+[Your can check our video](http://www.pxcode.io/video/heroVideo.mp4)
 
 
 ## What pxCode studio?!
