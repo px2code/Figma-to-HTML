@@ -1,6 +1,6 @@
 <div align="center">
   <strong>pxCode: Design to Code</strong><br/>
-  <strong>A online UI/Code editing tool for Smart Responsive Design</strong>
+  <strong>An online UI/Code editing tool for Smart Responsive Design</strong>
 </div>
 <br/>
 
