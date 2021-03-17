@@ -1,6 +1,6 @@
 <div align="center">
-  <strong>pxCode: Design to Code</strong><br/>
-  <strong>An online UI/Code editing tool for Smart Responsive Design</strong>
+  <strong>pxCode: Design to Developement</strong><br/>
+  <strong>20x Faster, Elegant and Clean Code</strong>
 </div>
 <br/>
 
@@ -16,14 +16,14 @@ alt="IMAGE ALT TEXT HERE" style="display:block;width:100%;height:auto" /></a>
 [Your can check our video](http://www.pxcode.io/video/heroVideo.mp4)
 
 
-## What pxCode studio?!
+## What is pxCode?!
 
 pxCode studio is smart UI/Code editing tool for Responsive Design. 
 You can generate React/React-Native / HTML Code with a few steps: 
 
-1. Import [Sketch](https://www.sketch.com/) to pxCode studio 
-2. Create React Component with selected Artboard
-3. Edit Responsive Design with Smart Layout and few clicks
+1. Import [Sketch](https://www.sketch.com/)/[Figma](https://www.figma.com/community/plugin/946962210053893234/pxCode---Design-to-Code) to pxCode studio 
+2. Create HTML/React Component with selected Artboard
+3. Edit Responsive Web Design with Visual Programming and few clicks
 4. Live Preview final result with Real Browser
 5. Get JS/HTML Code from pxCode studio  
 
