@@ -1,5 +1,5 @@
 <div align="center">
-  <strong>pxCode: Design to Developement</strong><br/>
+  <strong>pxCode: Figma to HTML, Sketch to HTML, Design to Developement</strong><br/>
   <strong>20x Faster, Elegant and Clean Code</strong>
 </div>
 <br/>
