@@ -27,6 +27,8 @@ You can generate React/React-Native / HTML Code with a few steps:
 4. Live Preview final result with Real Browser
 5. Get JS/HTML Code from pxCode studio  
 
+More information please visit our [blog: How to export Figma to HTML](https://www.pxcode.io/blog/2021/10/29/How_to_export_Figma_to_HTML/)
+
 pxCode studio is evolving and work well for our internal projects . 
 Please visit our pxCode website for more information.
 if you are interested in our products please contact us.
