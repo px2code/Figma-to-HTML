@@ -1,0 +1,154 @@
+@use "../utils" as *;
+@use "../global" as *;
+
+.postContainer {
+  background-color: rgba(255, 255, 255, 0.333);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.mainContent {
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px 5px 5px 5px;
+  display: flex;
+  flex-direction: column;
+  margin: 16px 16px 16px 17px;
+  padding: 12px 0px 13px 0px;
+}
+.headerRow {
+  display: flex;
+  gap: 0px 10px;
+  justify-content: space-between;
+  width: 92.82%;
+}
+.profileSection {
+  align-items: center;
+  display: flex;
+  gap: 0px 8px;
+  margin: 6px 0px 0px;
+  width: 146px;
+}
+.profileImage {
+  aspect-ratio: 1.05;
+  height: 40px;
+  width: 42px;
+}
+.profileDetails {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 96px;
+}
+.username {
+  color: rgb(0, 109, 204);
+  font: 400 16px/1.25 "Roboto", Helvetica, Arial, serif;
+}
+.editTimestamp {
+  color: rgb(85, 103, 139);
+  font: 400 14px/1.5 "Roboto", Helvetica, Arial, serif;
+}
+.postImage {
+  height: 16px;
+  margin: 0px 0px 31px;
+  width: 16px;
+}
+.postTitle {
+  color: rgb(8, 7, 7);
+  font: 400 16px/1.25 "Roboto", Helvetica, Arial, serif;
+  margin: 4px 0px 0px;
+  width: 93.35%;
+}
+.readMoreButton {
+  color: rgb(0, 109, 204);
+  font: 400 12px/1.66 "Roboto", Helvetica, Arial, serif;
+  width: 92.55%;
+}
+.postThumbnail {
+  margin: 6px 0px 0px;
+  width: 100%;
+}
+.statsRow {
+  align-items: center;
+  display: flex;
+  gap: 0px 10px;
+  justify-content: space-between;
+  margin: 19px 0px 0px;
+  width: 94.95%;
+}
+.likesCount {
+  color: rgb(85, 103, 139);
+  font: 400 14px/1.28 "Roboto", Helvetica, Arial, serif;
+}
+.commentsViewsInfo {
+  color: rgb(85, 103, 139);
+  font: 400 14px/1.28 "Roboto", Helvetica, Arial, serif;
+}
+.dividerLine {
+  background-color: rgb(215, 220, 230);
+  height: 1px;
+  margin: 16px 0px 0px;
+  min-height: 1px;
+  width: auto;
+}
+.actionsRow {
+  align-items: center;
+  display: flex;
+  gap: 0px 79px;
+  margin: 9px 0px 0px;
+  width: 90.43%;
+}
+.likeButtonContainer {
+  display: flex;
+  gap: 0px 5px;
+  height: 95.65%;
+  width: 45px;
+}
+.likeIcon {
+  height: 18px;
+  margin: 4px 0px 0px;
+  width: 18px;
+}
+.likeText {
+  color: rgb(91, 104, 139);
+  display: flex;
+  font: 400 12px/1.83 "Roboto", Helvetica, Arial, serif;
+  justify-content: flex-end;
+  text-align: right;
+}
+.commentButtonContainer {
+  display: flex;
+  gap: 0px 7px;
+  height: 95.65%;
+  width: 78px;
+}
+.commentIcon {
+  height: 18px;
+  margin: 4px 0px 0px;
+  width: 18px;
+}
+.commentText {
+  color: rgb(91, 104, 139);
+  display: flex;
+  font: 400 12px/1.83 "Roboto", Helvetica, Arial, serif;
+  justify-content: flex-end;
+  text-align: right;
+}
+.shareButtonContainer {
+  align-items: center;
+  display: flex;
+  gap: 0px 7px;
+  height: 100%;
+  width: 58px;
+}
+.shareIcon {
+  height: 21px;
+  width: 20px;
+}
+.shareText {
+  color: rgb(91, 104, 139);
+  display: flex;
+  font: 400 12px/1.83 "Roboto", Helvetica, Arial, serif;
+  justify-content: flex-end;
+  text-align: right;
+}
