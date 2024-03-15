@@ -21,7 +21,7 @@ alt="IMAGE ALT TEXT HERE" style="display:block;width:100%;height:auto" /></a>
 pxCode studio is smart UI/Code editing tool for Responsive Design. 
 You can generate React/React-Native / HTML Code with a few steps: 
 
-1. Import [Sketch](https://www.sketch.com/)/[Figma](https://www.figma.com/community/plugin/946962210053893234) to pxCode studio 
+1. Import [Figma](https://www.figma.com/community/plugin/946962210053893234) to pxCode studio 
 2. Create HTML/React Component with selected Artboard
 3. Edit Responsive Web Design with Visual Programming and few clicks
 4. Live Preview final result with Real Browser
